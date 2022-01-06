@@ -1,6 +1,12 @@
-# creditcard_fraud_detection
+# Detecção de fraude em Transações de Credito
 
-Projeto de detecção de outliers utilizando rede neural artificial (RNA) com uma abordagem supervisionada de classificação, undersampling dos dados de treinamento e otimização dos hiperparâmetros.
+:arrow_forward: Projeto de detecção de outliers utilizando rede neural artificial (RNA) 
+
+* abordagem supervisionada de classificação
+* undersampling dos dados de treinamento 
+* otimização dos hiperparâmetros
+
+:arrow_forward: Fonte: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 :arrow_forward: Hard-skills desenvolvidas no desenvolvimento: 
 
