@@ -1,17 +1,26 @@
-# Detecção de fraude em Transações de Credito
+# Projeto de Detecção de fraude em Transações de Credito
 
-:arrow_forward: Projeto de detecção de outliers utilizando rede neural artificial (RNA) 
+:arrow_forward: Tecnologias:
 
-* abordagem supervisionada de classificação
-* undersampling dos dados de treinamento 
-* otimização dos hiperparâmetros
+* Rede neural artificial (RNA) 
+* Detecção de outliers
+* Abordagem supervisionada de classificação
+* Undersampling dos dados de treinamento 
+* Otimização dos hiperparâmetros
 
 :arrow_forward: Fonte: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-:arrow_forward: Hard-skills desenvolvidas no desenvolvimento: 
+:arrow_forward: Hard-skills desenvolvidas: 
 
 *   Pandas :panda_face:
 *   Matplotlib :chart_with_upwards_trend:
 *   Sk-Learn :memo:
 *   TensorFlow/Keras :bulb:
 *   Keras-Tuner :rocket:
+
+:arrow_forward: Métricas (em breve): 
+
+*   Assertidade
+*   Matriz de Confusão
+*   AUC-Curve
+*   ROC-Curve
