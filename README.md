@@ -1,4 +1,4 @@
-# Rede Neural na Detecção de fraudes em cartão de Crédito e Otimização dos Hiperparâmetros
+# Rede Neural na Detecção de Fraudes em Cartão de Crédito e Otimização dos Hiperparâmetros
 
 :arrow_forward: Tecnologias:
 
