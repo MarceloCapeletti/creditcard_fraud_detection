@@ -18,9 +18,8 @@
 *   TensorFlow/Keras :bulb:
 *   Keras-Tuner :rocket:
 
-:arrow_forward: Métricas (em breve): 
+:arrow_forward: Métricas: 
 
 *   Assertidade
 *   Matriz de Confusão
 *   AUC-Curve
-*   ROC-Curve
