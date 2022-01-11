@@ -1,4 +1,4 @@
-# Projeto de Detecção de fraude em Transações de Credito
+# Rede Neural na Detecção de fraudes em cartão de Crédito e Otimização dos Hiperparâmetros
 
 :arrow_forward: Tecnologias:
 
